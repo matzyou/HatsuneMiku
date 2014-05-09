@@ -21,7 +21,7 @@ illustration by [iXima](http://www.pixiv.net/member.php?id=837839)
 
 Voice Material  by [藤田咲](http://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E5%92%B2)
 
-
+---
 * Profile
  - 年齢：16歳
  - 身長：158cm
@@ -35,6 +35,7 @@ Voice Material  by [藤田咲](http://ja.wikipedia.org/wiki/%E8%97%A4%E7%94%B0%E
 
 
 VOCALOID2 Editor
+
 VOCALOID3 Editor
 
 
